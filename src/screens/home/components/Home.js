@@ -5,9 +5,9 @@ const HomeComponent = ({ messages }) => {
     return (
         <ScrollView>
             {
-                messages.map(data =>
-                    <Text style={styles.container}>{data.body}</Text>
-                )
+                messages.length ? messages.map((data, index) =>
+                    <Text key={index} style={styles.container}>{data.body}</Text>
+                ) : <Text style={styles.container}>No Messages</Text>
             }
         </ScrollView>
     );
@@ -18,11 +18,11 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         margin: 20,
-        backgroundColor: 'orange',
+        backgroundColor: 'grey',
         margin: 10,
         textAlign: 'center',
         fontSize: 20,
-        paddingTop: 70,
+        padding: 10
     }
 });
 

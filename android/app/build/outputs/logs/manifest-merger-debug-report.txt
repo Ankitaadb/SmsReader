@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-android-sms-listener] /Users/ankita/Code/SmsReader/node_modules/react-native-android-sms-listener/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.react:react-native:0.57.2] /Users/ankita/.gradle/caches/transforms-1/files-1.1/react-native-0.57.2.aar/6481b186181f5e7b304ca39012a08562/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f5a1d4c6f618f159a405c556956593dc/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/891d9ed2eef7b66b9be573c3b060669f/AndroidManifest.xml:17:1-22:12
@@ -12,6 +13,10 @@ MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ankita/.gradle/c
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c1c952cda6c601e847ecfa670d9a276d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4cfad39beb698ef68d093a89fd9112da/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/846103f4da2a4aa2a3254d1401e80ffd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ebb98796cf23565372194da580553466/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1e7b0ac58550437815e89a38c83c253e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ec8de1498dc52fbb160f13b527c5c5ec/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3b12c7ec826dedb9b56c1c068dcbc0ce/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/68d5fc18ef39bc244a44514bf20531e8/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6b3530680b3806ce4d0443bf897d3a85/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/6359dbdb00a9584eb071c3081548a76f/AndroidManifest.xml:2:1-9:12
@@ -19,25 +24,21 @@ MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ankita/.gradle/cac
 MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a419ff690d2a8f1faed148838242237e/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/766c93b6b061536f0321dd5ee33bd8de/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r174650] /Users/ankita/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/e8aca1f9bd02546a0e24c479a5a91dfd/AndroidManifest.xml:1:1-3:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ebb98796cf23565372194da580553466/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1e7b0ac58550437815e89a38c83c253e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6407eadc50f28d09bb3c4b02346b4130/AndroidManifest.xml:2:1-9:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ec8de1498dc52fbb160f13b527c5c5ec/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3b12c7ec826dedb9b56c1c068dcbc0ce/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12
 	package
 		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:2:5-28
 		INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12
 		INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12
 		INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:11-69
@@ -51,8 +52,16 @@ MERGED from [com.facebook.react:react-native:0.57.2] /Users/ankita/.gradle/cache
 MERGED from [com.facebook.react:react-native:0.57.2] /Users/ankita/.gradle/caches/transforms-1/files-1.1/react-native-0.57.2.aar/6481b186181f5e7b304ca39012a08562/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission-sdk-23#android.permission.RECEIVE_SMS
+ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:6:29-74
+uses-permission-sdk-23#android.permission.READ_SMS
+ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:7:29-71
 application
-ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:7:5-24:19
+ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:8:5-25:19
 MERGED from [com.facebook.react:react-native:0.57.2] /Users/ankita/.gradle/caches/transforms-1/files-1.1/react-native-0.57.2.aar/6481b186181f5e7b304ca39012a08562/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.react:react-native:0.57.2] /Users/ankita/.gradle/caches/transforms-1/files-1.1/react-native-0.57.2.aar/6481b186181f5e7b304ca39012a08562/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/766c93b6b061536f0321dd5ee33bd8de/AndroidManifest.xml:11:5-20
@@ -60,43 +69,45 @@ MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ankita/.gradle/caches/
 MERGED from [org.webkit:android-jsc:r174650] /Users/ankita/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/e8aca1f9bd02546a0e24c479a5a91dfd/AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] /Users/ankita/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/e8aca1f9bd02546a0e24c479a5a91dfd/AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:10:7-39
 	android:icon
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:11:7-41
 	android:allowBackup
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:12:7-34
 	android:theme
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:13:7-38
 	android:name
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:9:7-38
 activity#com.smsreader.MainActivity
-ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:14:7-23:18
 	android:label
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:16:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:18:9-51
 	android:configChanges
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:17:9-79
 	android:name
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:15:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:21:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:24:7-84
 	android:name
-		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:24:17-81
 uses-sdk
 INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-android-sms-listener] /Users/ankita/Code/SmsReader/node_modules/react-native-android-sms-listener/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-sms-listener] /Users/ankita/Code/SmsReader/node_modules/react-native-android-sms-listener/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.57.2] /Users/ankita/.gradle/caches/transforms-1/files-1.1/react-native-0.57.2.aar/6481b186181f5e7b304ca39012a08562/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.57.2] /Users/ankita/.gradle/caches/transforms-1/files-1.1/react-native-0.57.2.aar/6481b186181f5e7b304ca39012a08562/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f5a1d4c6f618f159a405c556956593dc/AndroidManifest.xml:20:5-44
@@ -113,6 +124,14 @@ MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ankita/.
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/4cfad39beb698ef68d093a89fd9112da/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/846103f4da2a4aa2a3254d1401e80ffd/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/846103f4da2a4aa2a3254d1401e80ffd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ebb98796cf23565372194da580553466/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ebb98796cf23565372194da580553466/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1e7b0ac58550437815e89a38c83c253e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1e7b0ac58550437815e89a38c83c253e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ec8de1498dc52fbb160f13b527c5c5ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ec8de1498dc52fbb160f13b527c5c5ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3b12c7ec826dedb9b56c1c068dcbc0ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3b12c7ec826dedb9b56c1c068dcbc0ce/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/68d5fc18ef39bc244a44514bf20531e8/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/68d5fc18ef39bc244a44514bf20531e8/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/6b3530680b3806ce4d0443bf897d3a85/AndroidManifest.xml:5:5-7:41
@@ -125,16 +144,8 @@ MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ankita/.gradl
 MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a419ff690d2a8f1faed148838242237e/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/766c93b6b061536f0321dd5ee33bd8de/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/ankita/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/766c93b6b061536f0321dd5ee33bd8de/AndroidManifest.xml:7:5-9:41
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ebb98796cf23565372194da580553466/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ebb98796cf23565372194da580553466/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1e7b0ac58550437815e89a38c83c253e/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1e7b0ac58550437815e89a38c83c253e/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6407eadc50f28d09bb3c4b02346b4130/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6407eadc50f28d09bb3c4b02346b4130/AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ec8de1498dc52fbb160f13b527c5c5ec/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ec8de1498dc52fbb160f13b527c5c5ec/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3b12c7ec826dedb9b56c1c068dcbc0ce/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/ankita/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3b12c7ec826dedb9b56c1c068dcbc0ce/AndroidManifest.xml:20:5-44
 INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -145,9 +156,13 @@ INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.
 		INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
 		ADDED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from [:react-native-android-sms-listener] /Users/ankita/Code/SmsReader/node_modules/react-native-android-sms-listener/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from [:react-native-android-sms-listener] /Users/ankita/Code/SmsReader/node_modules/react-native-android-sms-listener/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:22-67
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/ankita/Code/SmsReader/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,4 @@
+#Wed Oct 10 10:15:58 IST 2018
+base.0=/Users/ankita/Code/SmsReader/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
